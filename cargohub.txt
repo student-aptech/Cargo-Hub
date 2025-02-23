@@ -1,0 +1,28 @@
+                                  Cargo Hub
+3 panels 
+1}Admin
+2} User panel
+3}Agent panel
+
+ADMIN PANEL FUNCTIONALITIES 
+1)Admin parcel ki spec dekh ky payment set kr skta hy .
+2)admin parsel ka adress dekh kay us city ky agent ko parcel pick krny ka khe skta hy .
+3)Admin can ADD and Update branches
+4)Admin can see User's all personal details.
+5)Admin can block or diactivate user .
+6)Admin can see Agent's all personal details.
+7)Admin can block or diactivate Agent .
+8)Admin can see his/her pesonal details as well.
+9)Admin can generate Excel report of all couriers with all tiny details 
+10)
+
+USER PANEL
+1)Users can send parcel from home without any dificulty .
+2)Users can see their history .
+3)Users can track their courier by tracking id . pending
+
+AGENT PANEL
+
+1)Agent can update the status of parcel after delivered it.
+2)The agent can view the parcels assigned to him by the admin.
+3)The agent can also import this data into an Excel file.
